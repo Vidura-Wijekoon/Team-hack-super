@@ -1,0 +1,9 @@
+Dashboard =  https://covid19lanka.herokuapp.com/index.php#
+
+Python Jupiter notebook - https://colab.research.google.com/drive/10LXB1fOPeoy3Fl-GOm4JELzGaNJAjomp#scrollTo=PYNh-pxg4jHb
+
+Video presentation = https://www.youtube.com/watch?v=tL_WB05Hnio&t=50s
+
+Powerpoint presentation = https://1drv.ms/p/s!AnrFqR-zzDE6giukB0hfDDV17Fw5?e=yGR5UR
+
+
